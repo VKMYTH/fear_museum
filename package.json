@@ -1,7 +1,7 @@
 {
   "homepage": "https://VKMYTH.github.io/",
   "name": "engpba_museum",
-  "version": "0.1.0",
+  "version": "0.1.0",npm
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
