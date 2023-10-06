@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.645d9804.css",
+    "main.js": "/static/js/main.cd2d6fbb.js",
+    "static/media/death_fear.png": "/static/media/death_fear.ab213367a9e6957f6092.png",
+    "static/media/demon_fear.png": "/static/media/demon_fear.986fe38eb2092ebcb539.png",
+    "static/media/snake_fear.png": "/static/media/snake_fear.ca8efd641b4a00e3f1ad.png",
+    "index.html": "/index.html",
+    "main.645d9804.css.map": "/static/css/main.645d9804.css.map",
+    "main.cd2d6fbb.js.map": "/static/js/main.cd2d6fbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.645d9804.css",
+    "static/js/main.cd2d6fbb.js"
+  ]
+}
